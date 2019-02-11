@@ -1,1 +1,4 @@
-# projet_site_statique
+# Générateur de site statique
+
+## Génerer un site statique
+
